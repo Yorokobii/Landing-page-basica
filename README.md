@@ -5,6 +5,8 @@ Sitio web personal tipo portafolio desarrollado como práctica de HTML y CSS.
 Página web de una sola página (landing page) que presenta los servicios de un diseñador
 y desarrollador web freelancer. Incluye navegación, sección hero, servicios y formulario de contacto.
 
+<img width="2081" height="1244" alt="{7FB3557E-099B-420E-B4FE-E11B376ABF6F}" src="https://github.com/user-attachments/assets/a76487c8-1bd0-443b-8a56-42ba78e33943" />
+
 ## 🛠️ Tecnologías utilizadas
 - HTML5
 - CSS3 (Grid, Flexbox, Custom Properties)
