@@ -12,12 +12,14 @@ y desarrollador web freelancer. Incluye navegación, sección hero, servicios y 
 - Normalize.css
 
 ## 📁 Estructura del proyecto
+```
 ├── index.html
 ├── css/
 │   ├── normalize.css
 │   └── styles.css
 └── Img/
     └── hero.jpg
+```
 
 ## ✨ Características
 - Diseño responsive (mobile first)
